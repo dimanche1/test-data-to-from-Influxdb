@@ -9,3 +9,6 @@ Upload test data to&amp;from InfluxDB for distributed load test in Jmeter
 ![image](/img/load_to_request_prop.png)    
 ### JSR223 PreProcessor     
 ![image](/img/load_to_preprocessor.png)    
+## Load from InfluxDB configuration    
+### HTTP Request: Load from InfluxDB    
+![image](/img/load_from_request_prop.png)    
